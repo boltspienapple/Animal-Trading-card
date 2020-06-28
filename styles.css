@@ -1,1 +1,44 @@
 /* add your CSS here */
+.tiger{
+    border: 1px solid black;
+    padding: 5px;
+    margin-top: 5px;
+
+    
+    
+    
+}
+li{
+    list-style: none;
+    border: 1px solid white;
+    
+
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+body{
+    border: 5px solid white;
+    padding: 0.5rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    margin: 1px;
+    
+    
+    
+}
+ul{
+    text-align: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+}
+img{
+    margin-bottom: 5px;
+    border: 0px solid white;
+}
